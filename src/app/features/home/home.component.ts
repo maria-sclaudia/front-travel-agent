@@ -1,6 +1,5 @@
 import { Component } from '@angular/core';
 import { HeaderComponent } from '../../shared/layout/header/header.component';
-import { HomeFormComponent } from '../home-form/home-form.component';
 
 @Component({
   selector: 'app-home',
